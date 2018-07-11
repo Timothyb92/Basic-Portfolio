@@ -93,3 +93,20 @@ article {
     border-left: solid 1px;
     border-right: solid 1px;
 }
+
+input {
+    width: 953px;
+    padding: 5px;
+}
+
+textarea {
+    width: 953px;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    background-color: #4aaaa5;
+    color: #fff;
+    font-size: 10pt;
+}
