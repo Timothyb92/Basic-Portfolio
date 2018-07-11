@@ -91,6 +91,7 @@ article {
 #portfolioAnchor {
     border-left: solid 1px;
     border-right: solid 1px;
+    border-color: #eee;
 }
 
 input {
@@ -144,4 +145,8 @@ ul {
 li {
     float: left;
     margin-top: 10px;
+}
+
+#footerDiv {
+    padding-top: 45px;
 }
