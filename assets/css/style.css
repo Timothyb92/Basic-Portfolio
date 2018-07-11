@@ -116,8 +116,23 @@ form p {
     margin-bottom: 0;
 }
 
-img {
+.portfolioArticle img {
     height: 320px;
     width: 320px;
     margin: 20px 20px 20px 0;
+}
+
+.container {
+    position: relative;
+    float: left;
+    text-align: center;
+}
+
+.centered-bottom {
+    background-color: #4aaaa5;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    bottom: 50px;
+    width: 300px
 }
